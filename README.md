@@ -16,10 +16,6 @@ No Arduino programming is required.
 - Resistor
 - Jumper wires
 
-## Circuit Diagram
-
-![Circuit Diagram](images/circuit-diagram.png)
-
 ## Working Principle
 
 The tactile push button acts as a momentary switch.
